@@ -1,0 +1,72 @@
+[11-Jan-2016 07:11:21 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: message' in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1:27
+Stack trace:
+#0 /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1(27): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bimakitc/...', 27, Array)
+#1 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): include('/home/bimakitc/...')
+#2 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bimakitc/...', Array)
+#3 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(136): Illuminate\View\Engines\CompilerEngine->get('/home/bimakitc/...', Array)
+#4 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(104): I in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[11-Jan-2016 07:11:21 UTC] PHP Fatal error:  Call to a member function getJum() on a non-object in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[11-Jan-2016 07:12:13 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: message' in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1:27
+Stack trace:
+#0 /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1(27): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bimakitc/...', 27, Array)
+#1 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): include('/home/bimakitc/...')
+#2 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bimakitc/...', Array)
+#3 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(136): Illuminate\View\Engines\CompilerEngine->get('/home/bimakitc/...', Array)
+#4 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(104): I in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[11-Jan-2016 07:12:13 UTC] PHP Fatal error:  Call to a member function getJum() on a non-object in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[11-Jan-2016 07:12:18 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: message' in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1:27
+Stack trace:
+#0 /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1(27): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bimakitc/...', 27, Array)
+#1 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): include('/home/bimakitc/...')
+#2 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bimakitc/...', Array)
+#3 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(136): Illuminate\View\Engines\CompilerEngine->get('/home/bimakitc/...', Array)
+#4 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(104): I in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[11-Jan-2016 07:12:18 UTC] PHP Fatal error:  Call to a member function getJum() on a non-object in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[12-Jan-2016 04:59:50 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: message' in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1:27
+Stack trace:
+#0 /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1(27): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bimakitc/...', 27, Array)
+#1 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): include('/home/bimakitc/...')
+#2 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bimakitc/...', Array)
+#3 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(136): Illuminate\View\Engines\CompilerEngine->get('/home/bimakitc/...', Array)
+#4 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(104): I in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[12-Jan-2016 04:59:51 UTC] PHP Fatal error:  Call to a member function getJum() on a non-object in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[12-Jan-2016 11:04:47 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: message' in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1:27
+Stack trace:
+#0 /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1(27): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bimakitc/...', 27, Array)
+#1 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): include('/home/bimakitc/...')
+#2 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bimakitc/...', Array)
+#3 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(136): Illuminate\View\Engines\CompilerEngine->get('/home/bimakitc/...', Array)
+#4 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(104): I in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[12-Jan-2016 11:04:47 UTC] PHP Fatal error:  Call to a member function getJum() on a non-object in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[12-Jan-2016 11:04:47 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: message' in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1:27
+Stack trace:
+#0 /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1(27): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bimakitc/...', 27, Array)
+#1 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): include('/home/bimakitc/...')
+#2 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bimakitc/...', Array)
+#3 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(136): Illuminate\View\Engines\CompilerEngine->get('/home/bimakitc/...', Array)
+#4 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(104): I in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[12-Jan-2016 11:04:47 UTC] PHP Fatal error:  Call to a member function getJum() on a non-object in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[12-Jan-2016 11:04:48 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: message' in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1:27
+Stack trace:
+#0 /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1(27): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bimakitc/...', 27, Array)
+#1 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): include('/home/bimakitc/...')
+#2 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bimakitc/...', Array)
+#3 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(136): Illuminate\View\Engines\CompilerEngine->get('/home/bimakitc/...', Array)
+#4 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(104): I in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[12-Jan-2016 11:04:48 UTC] PHP Fatal error:  Call to a member function getJum() on a non-object in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[13-Jan-2016 03:01:17 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: message' in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1:27
+Stack trace:
+#0 /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1(27): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bimakitc/...', 27, Array)
+#1 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): include('/home/bimakitc/...')
+#2 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bimakitc/...', Array)
+#3 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(136): Illuminate\View\Engines\CompilerEngine->get('/home/bimakitc/...', Array)
+#4 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(104): I in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[13-Jan-2016 03:01:17 UTC] PHP Fatal error:  Call to a member function getJum() on a non-object in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[15-Jan-2016 13:06:10 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: message' in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1:27
+Stack trace:
+#0 /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1(27): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bimakitc/...', 27, Array)
+#1 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): include('/home/bimakitc/...')
+#2 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bimakitc/...', Array)
+#3 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(136): Illuminate\View\Engines\CompilerEngine->get('/home/bimakitc/...', Array)
+#4 /home/bimakitc/public_html/protected/vendor/laravel/framework/src/Illuminate/View/View.php(104): I in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
+[15-Jan-2016 13:06:10 UTC] PHP Fatal error:  Call to a member function getJum() on a non-object in /home/bimakitc/public_html/protected/storage/framework/views/96afa69402260fc231b7b424435058e1 on line 27
